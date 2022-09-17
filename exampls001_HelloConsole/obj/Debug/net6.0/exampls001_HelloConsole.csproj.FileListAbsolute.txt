@@ -1,0 +1,15 @@
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\bin\Debug\net6.0\exampls001_HelloConsole.exe
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\bin\Debug\net6.0\exampls001_HelloConsole.deps.json
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\bin\Debug\net6.0\exampls001_HelloConsole.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\bin\Debug\net6.0\exampls001_HelloConsole.dll
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\bin\Debug\net6.0\ref\exampls001_HelloConsole.dll
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\bin\Debug\net6.0\exampls001_HelloConsole.pdb
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.dll
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\ref\exampls001_HelloConsole.dll
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.pdb
+C:\Users\KDFX Team\Desktop\Examples\exampls001_HelloConsole\obj\Debug\net6.0\exampls001_HelloConsole.genruntimeconfig.cache
